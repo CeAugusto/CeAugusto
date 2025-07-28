@@ -18,3 +18,9 @@ Hello! I'm César Augusto
   <!--<img align="center" alt="Alex-Azure" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />-->
 
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CeAugusto/CeAugusto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CeAugusto/CeAugusto/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CeAugusto/CeAugusto/output/github-contribution-grid-snake.svg">
+</picture>
